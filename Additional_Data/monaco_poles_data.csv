@@ -1,0 +1,70 @@
+year,grand_prix,driver,constructor,race,pole_margin,pole_time
+1950,Monaco,(ARG) Juan Manuel Fangio,Alfa Romeo,1,2.600s,1:50.200
+1955,Monaco,(ARG) Juan Manuel Fangio,Mercedes,DNF,0.000s,1:41.100
+1956,Monaco,(ARG) Juan Manuel Fangio,Ferrari,2,0.600s,1:44.000
+1957,Monaco,(ARG) Juan Manuel Fangio,Maserati,1,0.600s,1:42.700
+1958,Monaco,(GBR) Tony Brooks,Vanwall,DNF,1.000s,1:39.800
+1959,Monaco,(GBR) Stirling Moss,Cooper-Climax,DNF,0.400s,1:39.600
+1960,Monaco,(GBR) Stirling Moss,Lotus-Climax,1,1.000s,1:36.300
+1961,Monaco,(GBR) Stirling Moss,Lotus-Climax,1,0.200s,1:39.100
+1962,Monaco,(GBR) Jim Clark,Lotus-Climax,DNF,0.400s,1:35.400
+1963,Monaco,(GBR) Jim Clark,Lotus-Climax,8R,0.700s,1:34.300
+1964,Monaco,(GBR) Jim Clark,Lotus-Climax,4R,0.100s,1:34.000
+1965,Monaco,(GBR) Graham Hill,BRM,1,0.300s,1:32.500
+1966,Monaco,(GBR) Jim Clark,Lotus-Climax,DNF,0.200s,1:29.900
+1967,Monaco,(AUS) Jack Brabham,Brabham-Repco,DNF,0.700s,1:27.600
+1968,Monaco,(GBR) Graham Hill,Lotus-Ford Cosworth,1,0.600s,1:28.200
+1969,Monaco,(GBR) Jackie Stewart,Matra-Ford Cosworth,DNF,0.400s,1:24.600
+1970,Monaco,(GBR) Jackie Stewart,March-Ford Cosworth,DNF,0.600s,1:24.000
+1971,Monaco,(GBR) Jackie Stewart,Tyrrell-Ford Cosworth,1,1.200s,1:23.200
+1972,Monaco,(BRA) Emerson Fittipaldi,Lotus-Ford Cosworth,3,0.200s,1:21.400
+1973,Monaco,(GBR) Jackie Stewart,Tyrrell-Ford Cosworth,1,0.200s,1:27.500
+1974,Monaco,(AUT) Niki Lauda,Ferrari,DNF,0.300s,1:26.300
+1975,Monaco,(AUT) Niki Lauda,Ferrari,1,0.690s,1:26.400
+1976,Monaco,(AUT) Niki Lauda,Ferrari,1,0.260s,1:29.650
+1977,Monaco,(GBR) John Watson,Brabham-Alfa Romeo,DNF,0.410s,1:29.860
+1978,Monaco,(ARG) Carlos Reutemann,Ferrari,8,0.490s,1:28.340
+1979,Monaco,(ZAF) Jody Scheckter,Ferrari,1,0.070s,1:26.450
+1980,Monaco,(FRA) Didier Pironi,Ligier-Ford Cosworth,DNF,0.069s,1:24.813
+1981,Monaco,(BRA) Nelson Piquet,Brabham-Ford Cosworth,DNF,0.078s,1:25.710
+1982,Monaco,(FRA) Rene Arnoux,Renault,DNF,0.510s,1:23.281
+1983,Monaco,(FRA) Alain Prost,Renault,3,0.342s,1:24.840
+1984,Monaco,(FRA) Alain Prost,McLaren-TAG,1,0.091s,1:22.661
+1985,Monaco,(BRA) Ayrton Senna,Lotus-Renault,DNF,0.086s,1:20.450
+1986,Monaco,(FRA) Alain Prost,McLaren-TAG,1,0.420s,1:22.627
+1987,Monaco,(GBR) Nigel Mansell,Williams-Honda,DNF,0.672s,1:23.039
+1988,Monaco,(BRA) Ayrton Senna,McLaren-Honda,DNF,1.427s,1:23.998
+1989,Monaco,(BRA) Ayrton Senna,McLaren-Honda,1,1.148s,1:22.308
+1990,Monaco,(BRA) Ayrton Senna,McLaren-Honda,1,0.462s,1:21.314
+1991,Monaco,(BRA) Ayrton Senna,McLaren-Honda,1,0.465s,1:20.344
+1992,Monaco,(GBR) Nigel Mansell,Williams-Renault,2,0.873s,1:19.495
+1993,Monaco,(FRA) Alain Prost,Williams-Renault,4,0.633s,1:20.557
+1994,Monaco,(DEU) Michael Schumacher,Benetton-Ford Cosworth,1,0.928s,1:18.560
+1995,Monaco,(GBR) Damon Hill,Williams-Renault,2,0.790s,1:21.952
+1996,Monaco,(DEU) Michael Schumacher,Ferrari,DNF,0.510s,1:20.356
+1997,Monaco,(DEU) Heinz-Harald Frentzen,Williams-Renault,DNF,0.019s,1:18.216
+1998,Monaco,(FIN) Mika Hakkinen,McLaren-Mercedes,1,0.339s,1:19.798
+1999,Monaco,(FIN) Mika Hakkinen,McLaren-Mercedes,3,0.064s,1:20.547
+2000,Monaco,(DEU) Michael Schumacher,Ferrari,DNF,0.271s,1:19.475
+2001,Monaco,(GBR) David Coulthard,McLaren-Mercedes,5,0.201s,1:17.430
+2002,Monaco,(COL) Juan Pablo Montoya,Williams-BMW,DNF,0.392s,1:16.676
+2003,Monaco,(DEU) Ralf Schumacher,Williams-BMW,4,0.036s,1:15.259
+2004,Monaco,(ITA) Jarno Trulli,Renault,1,0.360s,1:13.985
+2005,Monaco,(FIN) Kimi Raikkonen,McLaren-Mercedes,1,0.083s,2:30.323
+2006,Monaco,(ESP) Fernando Alonso,Renault,1,0.120s,1:13.962
+2007,Monaco,(ESP) Fernando Alonso,McLaren-Mercedes,1,0.179s,1:15.726
+2008,Monaco,(BRA) Felipe Massa,Ferrari,3,0.028s,1:15.787
+2009,Monaco,(GBR) Jenson Button,Brawn GP-Mercedes,1,0.025s,1:14.902
+2010,Monaco,(AUS) Mark Webber,Red Bull-Renault,1,0.294s,1:13.826
+2011,Monaco,(DEU) Sebastian Vettel,Red Bull-Renault,1,0.441s,1:13.556
+2012,Monaco,(AUS) Mark Webber,Red Bull-Renault,1,0.067s,1:14.381
+2013,Monaco,(DEU) Nico Rosberg,Mercedes,1,0.091s,1:13.876
+2014,Monaco,(DEU) Nico Rosberg,Mercedes,1,0.059s,1:15.989
+2015,Monaco,(GBR) Lewis Hamilton,Mercedes,3,0.342s,1:15.098
+2016,Monaco,(AUS) Daniel Ricciardo,Red Bull-TAG Heuer,2,0.169s,1:13.622
+2017,Monaco,(FIN) Kimi Raikkonen,Ferrari,2,0.043s,1:12.178
+2018,Monaco,(AUS) Daniel Ricciardo,Red Bull-TAG Heuer,1,0.229s,1:10.810
+2019,Monaco,(GBR) Lewis Hamilton,Mercedes,1,0.086s,1:10.166
+2021,Monaco,(MCO) Charles Leclerc,Ferrari,DNS,0.230s,1:10.346
+2022,Monaco,(MCO) Charles Leclerc,Ferrari,4,0.225s,1:11.376
+2023,Monaco,(NLD) Max Verstappen,Red Bull-Honda RBPT,1,0.084s,1:11.365

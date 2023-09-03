@@ -1,0 +1,59 @@
+year,grand_prix,driver,constructor,race,pole_margin,pole_time
+1950,Britain,(ITA) Giuseppe Farina,Alfa Romeo,1,0.200s,1:50.800
+1951,Britain,(ARG) Jose Froilan Gonzalez,Ferrari,1,1.000s,1:43.400
+1952,Britain,(ITA) Giuseppe Farina,Ferrari,6,0.000s,1:50.000
+1953,Britain,(ITA) Alberto Ascari,Ferrari,1,1.000s,1:48.000
+1954,Britain,(ARG) Juan Manuel Fangio,Mercedes,4,1.000s,1:45.000
+1956,Britain,(GBR) Stirling Moss,Maserati,DNF,1.000s,1:41.000
+1958,Britain,(GBR) Stirling Moss,Vanwall,DNF,0.400s,1:39.400
+1960,Britain,(AUS) Jack Brabham,Cooper-Climax,1,1.200s,1:34.600
+1963,Britain,(GBR) Jim Clark,Lotus-Climax,1,0.200s,1:34.400
+1965,Britain,(GBR) Jim Clark,Lotus-Climax,1,0.200s,1:30.800
+1967,Britain,(GBR) Jim Clark,Lotus-Ford Cosworth,1,0.700s,1:25.300
+1969,Britain,(AUT) Jochen Rindt,Lotus-Ford Cosworth,4,0.400s,1:20.800
+1971,Britain,(CHE) Clay Regazzoni,Ferrari,DNF,0.000s,1:18.100
+1973,Britain,(SWE) Ronnie Peterson,Lotus-Ford Cosworth,2,0.200s,1:16.300
+1975,Britain,(GBR) Tom Pryce,Shadow-Ford Cosworth,DNF,0.140s,1:19.360
+1977,Britain,(GBR) James Hunt,McLaren-Ford Cosworth,1,0.280s,1:18.490
+1979,Britain,(AUS) Alan Jones,Williams-Ford Cosworth,DNF,0.600s,1:11.880
+1981,Britain,(FRA) Rene Arnoux,Renault,9,0.046s,1:11.000
+1983,Britain,(FRA) Rene Arnoux,Ferrari,5,0.642s,1:09.462
+1985,Britain,(FIN) Keke Rosberg,Williams-Honda,DNF,0.658s,1:05.591
+1987,Britain,(BRA) Nelson Piquet,Williams-Honda,2,0.070s,1:07.110
+1988,Britain,(AUT) Gerhard Berger,Ferrari,9,0.199s,1:10.133
+1989,Britain,(BRA) Ayrton Senna,McLaren-Honda,DNF,0.167s,1:09.099
+1990,Britain,(GBR) Nigel Mansell,Ferrari,DNF,0.643s,1:07.428
+1991,Britain,(GBR) Nigel Mansell,Williams-Renault,1,0.679s,1:20.939
+1992,Britain,(GBR) Nigel Mansell,Williams-Renault,1,1.919s,1:18.965
+1993,Britain,(FRA) Alain Prost,Williams-Renault,1,0.128s,1:19.006
+1994,Britain,(GBR) Damon Hill,Williams-Renault,1,0.003s,1:24.960
+1995,Britain,(GBR) Damon Hill,Williams-Renault,DNF,0.273s,1:28.124
+1996,Britain,(GBR) Damon Hill,Williams-Renault,DNF,0.195s,1:26.875
+1997,Britain,(CAN) Jacques Villeneuve,Williams-Renault,1,0.134s,1:21.598
+1998,Britain,(FIN) Mika Hakkinen,McLaren-Mercedes,2,0.449s,1:23.271
+1999,Britain,(FIN) Mika Hakkinen,McLaren-Mercedes,DNF,0.419s,1:24.804
+2000,Britain,(BRA) Rubens Barrichello,Ferrari,DNF,0.003s,1:25.703
+2001,Britain,(DEU) Michael Schumacher,Ferrari,2,0.082s,1:20.447
+2002,Britain,(COL) Juan Pablo Montoya,Williams-BMW,3,0.034s,1:18.998
+2003,Britain,(BRA) Rubens Barrichello,Ferrari,1,0.172s,1:21.209
+2004,Britain,(FIN) Kimi Raikkonen,McLaren-Mercedes,2,0.072s,1:18.233
+2005,Britain,(ESP) Fernando Alonso,Renault,2,0.027s,1:19.905
+2006,Britain,(ESP) Fernando Alonso,Renault,1,0.144s,1:20.253
+2007,Britain,(GBR) Lewis Hamilton,McLaren-Mercedes,3,0.102s,1:19.997
+2008,Britain,(FIN) Heikki Kovalainen,McLaren-Mercedes,5,0.505s,1:21.049
+2009,Britain,(DEU) Sebastian Vettel,Red Bull-Renault,1,0.347s,1:19.509
+2010,Britain,(DEU) Sebastian Vettel,Red Bull-Renault,7,0.143s,1:29.615
+2011,Britain,(AUS) Mark Webber,Red Bull-Renault,3,0.032s,1:30.399
+2012,Britain,(ESP) Fernando Alonso,Ferrari,2,0.047s,1:51.746
+2013,Britain,(GBR) Lewis Hamilton,Mercedes,4,0.452s,1:29.607
+2014,Britain,(DEU) Nico Rosberg,Mercedes,DNF,1.620s,1:35.766
+2015,Britain,(GBR) Lewis Hamilton,Mercedes,1,0.113s,1:32.248
+2016,Britain,(GBR) Lewis Hamilton,Mercedes,1,0.319s,1:29.287
+2017,Britain,(GBR) Lewis Hamilton,Mercedes,1,0.547s,1:26.600
+2018,Britain,(GBR) Lewis Hamilton,Mercedes,2,0.044s,1:25.892
+2019,Britain,(FIN) Valtteri Bottas,Mercedes,2,0.006s,1:25.093
+2020,Britain,(GBR) Lewis Hamilton,Mercedes,1,0.313s,1:24.303
+2020,70th Anniversary,(FIN) Valtteri Bottas,Mercedes,3,0.063s,1:25.154
+2021,Britain,(GBR) Lewis Hamilton,Mercedes,1,nan,1:26.134
+2022,Britain,(ESP) Carlos Sainz,Ferrari,1,0.072s,1:40.983
+2023,Britain,(NLD) Max Verstappen,Red Bull-Honda RBPT,1,0.241s,1:26.720

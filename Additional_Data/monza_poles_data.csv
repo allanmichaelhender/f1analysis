@@ -1,0 +1,73 @@
+year,grand_prix,driver,constructor,race,pole_margin,pole_time
+1950,Italy,(ARG) Juan Manuel Fangio,Alfa Romeo,DNF,0.100s,1:58.300
+1951,Italy,(ARG) Juan Manuel Fangio,Alfa Romeo,DNF,0.700s,1:53.200
+1952,Italy,(ITA) Alberto Ascari,Ferrari,1,0.900s,2:05.700
+1953,Italy,(ITA) Alberto Ascari,Ferrari,DNF,0.500s,2:02.700
+1954,Italy,(ARG) Juan Manuel Fangio,Mercedes,1,0.200s,1:59.000
+1955,Italy,(ARG) Juan Manuel Fangio,Mercedes,1,0.300s,2:46.500
+1956,Italy,(ARG) Juan Manuel Fangio,Ferrari,2,0.800s,2:42.600
+1957,Italy,(GBR) Stuart Lewis-Evans,Vanwall,DNF,0.300s,1:42.400
+1958,Italy,(GBR) Stirling Moss,Vanwall,DNF,0.900s,1:40.500
+1959,Italy,(GBR) Stirling Moss,Cooper-Climax,1,0.100s,1:39.700
+1960,Italy,(USA) Phil Hill,Ferrari,1,1.900s,2:41.400
+1961,Italy,(DEU) Wolfgang von Trips,Ferrari,DNF,0.100s,2:46.300
+1962,Italy,(GBR) Jim Clark,Lotus-Climax,DNF,0.030s,1:40.350
+1963,Italy,(GBR) John Surtees,Ferrari,DNF,1.200s,1:37.300
+1964,Italy,(GBR) John Surtees,Ferrari,1,0.800s,1:37.400
+1965,Italy,(GBR) Jim Clark,Lotus-Climax,10,0.200s,1:35.900
+1966,Italy,(GBR) Mike Parkes,Ferrari,2,0.300s,1:31.300
+1967,Italy,(GBR) Jim Clark,Lotus-Ford Cosworth,3,0.300s,1:28.500
+1968,Italy,(GBR) John Surtees,Honda,DNF,0.040s,1:26.070
+1969,Italy,(AUT) Jochen Rindt,Lotus-Ford Cosworth,2,0.210s,1:25.480
+1970,Italy,(BEL) Jacky Ickx,Ferrari,DNF,0.220s,1:24.140
+1971,Italy,(NZL) Chris Amon,Matra,6,0.420s,1:22.400
+1972,Italy,(BEL) Jacky Ickx,Ferrari,DNF,0.040s,1:35.650
+1973,Italy,(SWE) Ronnie Peterson,Lotus-Ford Cosworth,1,0.490s,1:34.800
+1974,Italy,(AUT) Niki Lauda,Ferrari,DNF,0.110s,1:33.160
+1975,Italy,(AUT) Niki Lauda,Ferrari,3,0.510s,1:32.240
+1976,Italy,(FRA) Jacques Laffite,Ligier-Matra,3,0.030s,1:41.350
+1977,Italy,(GBR) James Hunt,McLaren-Ford Cosworth,DNF,0.070s,1:38.080
+1978,Italy,(USA) Mario Andretti,Lotus-Ford Cosworth,6,0.346s,1:37.520
+1979,Italy,(FRA) Jean-Pierre Jabouille,Renault,14R,0.124s,1:34.580
+1981,Italy,(FRA) Rene Arnoux,Renault,DNF,0.673s,1:33.467
+1982,Italy,(USA) Mario Andretti,Ferrari,3,0.035s,1:28.473
+1983,Italy,(ITA) Riccardo Patrese,Brabham-BMW,DNF,0.528s,1:29.122
+1984,Italy,(BRA) Nelson Piquet,Brabham-BMW,DNF,0.087s,1:26.584
+1985,Italy,(BRA) Ayrton Senna,Lotus-Renault,3,0.146s,1:25.084
+1986,Italy,(ITA) Teo Fabi,Benetton-BMW,DNF,0.436s,1:24.078
+1987,Italy,(BRA) Nelson Piquet,Williams-Honda,1,0.099s,1:23.460
+1988,Italy,(BRA) Ayrton Senna,McLaren-Honda,10R,0.303s,1:25.974
+1989,Italy,(BRA) Ayrton Senna,McLaren-Honda,DNF,1.014s,1:23.720
+1990,Italy,(BRA) Ayrton Senna,McLaren-Honda,1,0.402s,1:22.533
+1991,Italy,(BRA) Ayrton Senna,McLaren-Honda,2,0.133s,1:21.114
+1992,Italy,(GBR) Nigel Mansell,Williams-Renault,DNF,0.601s,1:22.221
+1993,Italy,(FRA) Alain Prost,Williams-Renault,12R,0.312s,1:21.179
+1994,Italy,(FRA) Jean Alesi,Ferrari,DNF,0.134s,1:23.844
+1995,Italy,(GBR) David Coulthard,Williams-Renault,DNF,0.564s,1:24.462
+1996,Italy,(GBR) Damon Hill,Williams-Renault,DNF,0.317s,1:24.204
+1997,Italy,(FRA) Jean Alesi,Benetton-Renault,2,0.052s,1:22.990
+1998,Italy,(DEU) Michael Schumacher,Ferrari,1,0.272s,1:25.289
+1999,Italy,(FIN) Mika Hakkinen,McLaren-Mercedes,DNF,0.494s,1:22.432
+2000,Italy,(DEU) Michael Schumacher,Ferrari,1,0.027s,1:23.770
+2001,Italy,(COL) Juan Pablo Montoya,Williams-BMW,1,0.312s,1:22.216
+2002,Italy,(COL) Juan Pablo Montoya,Williams-BMW,DNF,0.257s,1:20.264
+2003,Italy,(DEU) Michael Schumacher,Ferrari,1,0.051s,1:20.963
+2004,Italy,(BRA) Rubens Barrichello,Ferrari,1,0.531s,1:20.089
+2005,Italy,(COL) Juan Pablo Montoya,McLaren-Mercedes,1,0.176s,1:21.054
+2006,Italy,(FIN) Kimi Raikkonen,McLaren-Mercedes,2,0.002s,1:21.484
+2007,Italy,(ESP) Fernando Alonso,McLaren-Mercedes,1,0.037s,1:21.997
+2008,Italy,(DEU) Sebastian Vettel,Toro Rosso-Ferrari,1,0.076s,1:37.555
+2009,Italy,(GBR) Lewis Hamilton,McLaren-Mercedes,12R,0.195s,1:24.066
+2010,Italy,(ESP) Fernando Alonso,Ferrari,1,0.122s,1:21.962
+2011,Italy,(DEU) Sebastian Vettel,Red Bull-Renault,1,0.450s,1:22.275
+2012,Italy,(GBR) Lewis Hamilton,McLaren-Mercedes,1,0.123s,1:24.010
+2013,Italy,(DEU) Sebastian Vettel,Red Bull-Renault,1,0.213s,1:23.755
+2014,Italy,(GBR) Lewis Hamilton,Mercedes,1,0.274s,1:24.109
+2015,Italy,(GBR) Lewis Hamilton,Mercedes,1,0.234s,1:23.397
+2016,Italy,(GBR) Lewis Hamilton,Mercedes,2,0.478s,1:21.135
+2017,Italy,(GBR) Lewis Hamilton,Mercedes,1,1.148s,1:35.554
+2018,Italy,(FIN) Kimi Raikkonen,Ferrari,2,0.161s,1:19.119
+2019,Italy,(MCO) Charles Leclerc,Ferrari,1,0.039s,1:19.307
+2020,Italy,(GBR) Lewis Hamilton,Mercedes,7,0.069s,1:18.887
+2021,Italy,(FIN) Valtteri Bottas,Mercedes,nan,nan,1:19.555
+2022,Italy,(MCO) Charles Leclerc,Ferrari,2,0.145s,1:20.161
