@@ -1,0 +1,78 @@
+year,constructorId,constructorRef,constructor_name,total_points,position,wins
+2002,7,toyota,Toyota,2.0,10,0
+2003,7,toyota,Toyota,16.0,8,0
+2004,7,toyota,Toyota,9.0,8,0
+2005,7,toyota,Toyota,88.0,4,0
+2005,9,red_bull,Red Bull,34.0,7,0
+2006,7,toyota,Toyota,35.0,6,0
+2006,9,red_bull,Red Bull,16.0,7,0
+2006,8,super_aguri,Super Aguri,0.0,11,0
+2007,9,red_bull,Red Bull,24.0,5,0
+2007,7,toyota,Toyota,13.0,6,0
+2007,8,super_aguri,Super Aguri,4.0,9,0
+2008,9,red_bull,Red Bull,29.0,7,0
+2008,8,super_aguri,Super Aguri,0.0,11,0
+2008,7,toyota,Toyota,56.0,5,0
+2008,10,aston_grouped,Aston Grouped,0.0,10,0
+2009,9,red_bull,Red Bull,153.5,2,6
+2009,7,toyota,Toyota,59.5,5,0
+2009,10,aston_grouped,Aston Grouped,13.0,9,0
+2010,131,mercedes,Mercedes,214.0,4,0
+2010,164,hrt,HRT,0.0,11,0
+2010,9,red_bull,Red Bull,498.0,1,9
+2010,166,manor_grouped,Manor Grouped,0.0,12,0
+2010,10,aston_grouped,Aston Grouped,68.0,7,0
+2011,166,manor_grouped,Manor Grouped,0.0,12,0
+2011,164,hrt,HRT,0.0,11,0
+2011,131,mercedes,Mercedes,165.0,4,0
+2011,9,red_bull,Red Bull,650.0,1,12
+2011,10,aston_grouped,Aston Grouped,69.0,6,0
+2012,164,hrt,HRT,0.0,12,0
+2012,207,caterham,Caterham,0.0,10,0
+2012,206,manor_grouped,Manor Grouped,0.0,11,0
+2012,131,mercedes,Mercedes,142.0,5,1
+2012,9,red_bull,Red Bull,460.0,1,7
+2012,10,aston_grouped,Aston Grouped,109.0,7,0
+2013,9,red_bull,Red Bull,596.0,1,13
+2013,10,aston_grouped,Aston Grouped,77.0,6,0
+2013,207,caterham,Caterham,0.0,11,0
+2013,206,manor_grouped,Manor Grouped,0.0,10,0
+2013,131,mercedes,Mercedes,360.0,2,3
+2014,131,mercedes,Mercedes,701.0,1,16
+2014,9,red_bull,Red Bull,405.0,2,3
+2014,207,caterham,Caterham,0.0,11,0
+2014,206,manor_grouped,Manor Grouped,2.0,9,0
+2014,10,aston_grouped,Aston Grouped,155.0,6,0
+2015,10,aston_grouped,Aston Grouped,136.0,5,0
+2015,131,mercedes,Mercedes,703.0,1,16
+2015,9,red_bull,Red Bull,187.0,4,0
+2015,209,manor_grouped,Manor Grouped,0.0,10,0
+2016,131,mercedes,Mercedes,765.0,1,19
+2016,9,red_bull,Red Bull,468.0,2,2
+2016,210,haas,Haas F1 Team,29.0,8,0
+2016,209,manor_grouped,Manor Grouped,1.0,11,0
+2016,10,aston_grouped,Aston Grouped,173.0,4,0
+2017,10,aston_grouped,Aston Grouped,187.0,4,0
+2017,210,haas,Haas F1 Team,47.0,8,0
+2017,9,red_bull,Red Bull,368.0,3,3
+2017,131,mercedes,Mercedes,668.0,1,12
+2018,9,red_bull,Red Bull,419.0,3,4
+2018,131,mercedes,Mercedes,655.0,1,11
+2018,210,haas,Haas F1 Team,93.0,5,0
+2018,10,aston_grouped,Aston Grouped,52.0,7,0
+2019,211,aston_grouped,Aston Grouped,73.0,7,0
+2019,131,mercedes,Mercedes,739.0,1,15
+2019,9,red_bull,Red Bull,417.0,3,3
+2019,210,haas,Haas F1 Team,28.0,9,0
+2020,131,mercedes,Mercedes,573.0,1,13
+2020,211,aston_grouped,Aston Grouped,195.0,4,1
+2020,9,red_bull,Red Bull,319.0,2,2
+2020,210,haas,Haas F1 Team,3.0,9,0
+2021,210,haas,Haas F1 Team,0.0,10,0
+2021,9,red_bull,Red Bull,585.5,2,11
+2021,117,aston_grouped,Aston Grouped,77.0,7,0
+2021,131,mercedes,Mercedes,613.5,1,9
+2022,117,aston_grouped,Aston Grouped,55.0,7,0
+2022,131,mercedes,Mercedes,515.0,3,1
+2022,9,red_bull,Red Bull,759.0,1,17
+2022,210,haas,Haas F1 Team,37.0,8,0
