@@ -10,3 +10,8 @@ Our Python Analysis is divided between 3 notebooks:
 Also included an Excel document with further analysis into the constuctors.
 
 Output datasets from our analysis are included within the exported_data folder.
+
+Tableau Public Dashboards:
+https://public.tableau.com/views/Formula1FastestLapsandPoleTimes/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/NewConstructors/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/DriverNationalities/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
