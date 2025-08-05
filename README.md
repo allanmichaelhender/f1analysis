@@ -6,7 +6,7 @@
 ---
 
 
-# Welcome to my analysis on Formula 1 data incluing pole lads, constructors and drivers.
+## Welcome to my analysis on Formula 1 data incluing pole lads, constructors and drivers.
 
 The original data sets are divided in two folders:
 1. kaggle_data
