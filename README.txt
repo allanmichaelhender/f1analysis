@@ -1,5 +1,7 @@
 [Fastest Laps and Pole Times](https://public.tableau.com/app/profile/allan.hender/viz/Formula1FastestLapsandPoleTimes/Dashboard1)
 
+[I'm an inline-style link](https://www.google.com)
+
 
 Welcome to my analysis on Formula 1 data incluing pole lads, constructors and drivers.
 
